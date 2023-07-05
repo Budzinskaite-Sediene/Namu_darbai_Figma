@@ -156,12 +156,6 @@ button {
   justify-content: space-between;
 }
 
-.container2 {
-  margin: 0 auto;
-  padding: 0 auto;
-  border-radius: 45px 0px 0px 45px;
-}
-
 svg {
   max-width: 100%;
   display: block;
